@@ -25,7 +25,7 @@
 
 ```bash
 # 1. Clone
-git clone https://github.com/yourhandle/ai-automation-pipeline.git
+git clone https://github.com/sarahsair25/ai-automation-pipeline.git
 cd ai-automation-pipeline
 
 # 2. Install dependencies
